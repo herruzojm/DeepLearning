@@ -47,3 +47,4 @@ Temporary Items
 .apdisk
 *.gz
 02/Handwritten_Digit_Recognition/mnist/train-images.idx3-ubyte
+*.bin
